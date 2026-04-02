@@ -1,7 +1,7 @@
 # Hi I'm Nivetha
 
-Second Year Student of B.TECH Artificial Intelligence and Data Science
-Interested in Artificial Intelligence and Machine Learning
+Second Year Student of B.TECH Artificial Intelligence and Data Science in Anna University Regional Campus,Coimbatore.
+Interested in Artificial Intelligence and Machine Learning.
 Goal: Become an AI Engineer and work in Japan  
 
 ---
