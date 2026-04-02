@@ -6,7 +6,7 @@ Goal: Become an AI Engineer and work in Japan
 
 ---
 
-#Skills
+##Skills
 - Python
 - Machine Learning (Basics)
 - HTML & CSS
@@ -15,11 +15,11 @@ Goal: Become an AI Engineer and work in Japan
 
 ---
 
-#Projects
+##Projects
 🔹Smart IOT - ML - Noise Monitoring System
 
 ---
 
-Contact Me
+##Contact Me
 Email: nivethav315@gmail.com  
 Phone: 8056295396
