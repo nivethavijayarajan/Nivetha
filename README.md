@@ -1,12 +1,12 @@
-# Hi 👋 I'm Nivetha
+# Hi I'm Nivetha
 
-🎓 Second Year Student of B.TECH Artificial Intelligence and Data Science
-💻 Interested in Artificial Intelligence and Machine Learning
-🎯 Goal: Become an AI Engineer and work in Japan  
+Second Year Student of B.TECH Artificial Intelligence and Data Science
+Interested in Artificial Intelligence and Machine Learning
+Goal: Become an AI Engineer and work in Japan  
 
 ---
 
-## 🚀 Skills
+#Skills
 - Python
 - Machine Learning (Basics)
 - HTML & CSS
@@ -15,11 +15,11 @@
 
 ---
 
-## 📂 Projects
+## Projects
 🔹 Noise Detection IoT System   
 
 ---
 
-## 📫 Contact Me
+#Contact Me
 Email: nivethav315@gmail.com  
 Phone: 8056295396
