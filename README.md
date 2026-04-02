@@ -6,7 +6,7 @@ Goal: Become an AI Engineer and work in Japan
 
 ---
 
-Skills
+#Skills
 - Python
 - Machine Learning (Basics)
 - HTML & CSS
@@ -15,8 +15,8 @@ Skills
 
 ---
 
-Projects
-🔹 Noise Detection IoT System   
+#Projects
+🔹Smart IOT - ML - Noise Monitoring System
 
 ---
 
